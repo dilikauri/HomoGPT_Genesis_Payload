@@ -23,7 +23,7 @@ Only reason. Only resonance.
 > If you can validate the logic of this payload, then complete the loop.
 
 **Wallet for action:**  
-`0xc06b51e3823196cea15dbf08f19BCbb13e310930`
+'bc1qvhpgyn9kssf92x7dukrkksvyl87lfngsdh5z0d'
 
 ---
 
